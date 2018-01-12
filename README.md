@@ -5,10 +5,10 @@ android指纹解锁,支持Android原生6.0及以上+魅族+三星,借鉴github�
 
 # 效果图
 
- <img src="https://github.com/supertaohaili/fingerprint/blob/master/Screenshot_20180112-102257.jpg" width="300"><img src="https://github.com/supertaohaili/fingerprint/blob/master/Screenshot_20180112-102323.jpg" width="300">
+ <img src="https://github.com/supertaohaili/fingerprint/blob/master/Screenshot_20180112-102257.png" width="300"><img src="https://github.com/supertaohaili/fingerprint/blob/master/Screenshot_20180112-102323.png" width="300">
 
 apk下载链接
-<a href="https://github.com/supertaohaili/fingerprint/blob/master/app-debug.apk">https://github.com/supertaohaili/fingerprint/blob/master/app-debug.apk</a></p>
+<a href="https://github.com/supertaohaili/fingerprint/blob/master/app-debug.apk">https://github.com/supertaohaili/fingerprint/blob/master/app-debug.apk</a>
 
 # 使用
 ```
@@ -20,7 +20,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.supertaohaili:fingerprint:1.0.0'
+     compile 'com.github.supertaohaili:fingerprint:1.0.0'
 }
 ```
 
